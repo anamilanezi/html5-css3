@@ -1,0 +1,110 @@
+body {
+    background-color: #64d0e4;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page {
+    width: 70%;
+    margin: auto;
+}
+
+#banner {
+    width: 100%;
+}
+.principal {
+    background-color: #b7dde2;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+ }
+
+h1 {
+    text-transform: uppercase;
+    color: #cc2f2a;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    color: #004750;
+}
+
+#missao {
+    font-size: 22px;
+}
+
+em strong {
+    color: #cc2f2a;
+    font-style: italic;
+    
+}
+
+.hr-azul {
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 90%;
+    border: 3px dashed #64d0e4;
+}
+
+.produtos {
+    font-size: 20px;
+    background-color: #ffbf3d;
+    color: #cc2f2a;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.hr-amarelo {
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 90%;
+    border: 3px dashed #fedb65;
+}
+
+
+.itens {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2 {
+    color: #cc2f2a;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+ul {
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.imgprodutos {
+    width: 50%;
+ 
+}
+
+.galeria {
+    background-color: #b7dde2;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+ }
+
